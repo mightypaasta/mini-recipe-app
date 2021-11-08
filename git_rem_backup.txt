@@ -1,0 +1,4 @@
+heroku	https://git.heroku.com/mini-recipe-app.git (fetch)
+heroku	https://git.heroku.com/mini-recipe-app.git (push)
+origin	https://github.com/mightypaasta/mini-recipe-app.git (fetch)
+origin	https://github.com/mightypaasta/mini-recipe-app.git (push)
